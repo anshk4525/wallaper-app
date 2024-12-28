@@ -3,4 +3,4 @@
 3. Bottomsheet in the second tab
 4. A stack push in the third tab
 5. A better stack navigator
-6. Coding all the pages
+6. Coding all the pages# wallaper-app
